@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Button from './button';
-import calculate from '../logic/calculate'; 
+import calculate from '../logic/calculate';
 import Quote from './Quote';
 import '../App.css';
 
