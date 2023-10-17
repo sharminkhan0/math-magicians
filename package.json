@@ -9,6 +9,7 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "big.js": "^6.2.1",
     "css-select": "^5.1.0",
     "gh-pages": "^6.0.0",
     "prop-types": "^15.8.1",
