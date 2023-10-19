@@ -8,7 +8,7 @@ const Home = () => (
       <p>With a sleek design and friendly UI, our app transforms complex math into a breeze.</p>
       <p>From basic arithmetic to an advanced feature such as modulo operations.</p>
       <p>Enjoy thought-provoking quotes for that extra motivation.</p>
-      <p>Embrace your inner math magician today - let's make math fun!</p>
+      <p>Embrace your inner math magician today - let&apos;s make math fun!</p>
     </div>
   </div>
 );
