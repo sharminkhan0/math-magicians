@@ -66,7 +66,7 @@ In order to use this project.. Clone this repository to your desired folder by p
   React.js
   ES6
   Git
-  HTML/JavaScript linters
+  HTML/JavaScript Linters
 
 ### Install <a name="install"></a>
 
